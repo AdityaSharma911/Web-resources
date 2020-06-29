@@ -10,12 +10,15 @@ React Native- https://www.coursera.org/learn/react-native/home/welcome
 Basics of Kotlin-1. https://www.codecademy.com/learn/learn-kotlin
                  2. YT Cheezycode
                  3. Coding in flow
+                 
+Python-1. https://www.coursera.org/specializations/python
+       2. https://github.com/AdityaSharma911/python-resources(for more info)
 
 AI and Deep-Learning - https://www.coursera.org/specializations/deep-learning
 
 Ultimate game developement using unreal engine(strong graphics card and high-end processors recommended) + (knowledge of C#, python and Java recommended)-https://learn.unrealengine.com/home/dashboard
 
-Python-https://www.coursera.org/specializations/python
+
 
 Competitive Programming-
 1. https://www.hackerearth.com/codearena/    (toughness depends on your practise and opponent)
